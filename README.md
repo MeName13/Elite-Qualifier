@@ -9,6 +9,6 @@ I imagine boredom will determine the flow of the conversation while other person
 I want to add more features into the bot, these are my goals from most to least important
 <ol start="1">
  <li>More responses</li>
- <li>More personality systems</li>
- <li>Dynamicly ll changing personality based on the flow of the conversation</li>
+ <li>More personality system</li>
+ <li>Dynamicly l changing personality based on the flow of the conversation</li>
 </ol>
