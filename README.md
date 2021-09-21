@@ -10,5 +10,5 @@ I want to add more features into the bot, these are my goals from most to least 
 <ol start="1">
  <li>More responses</li>
  <li>More personality systems</li>
- <li>Dynamicly changing personality based on the flow of the conversation</li>
+ <li>Dynamicly ll changing personality based on the flow of the conversation</li>
 </ol>
